@@ -1,11 +1,11 @@
-.color-light-blue{
-    background-color: #006cfa;
+.bg-Brown{
+    background-color: Brown;
 } 
 
+.container{
+    border-radius: 5px;
+}
 
-.color-green{
-    background-color: #01e165;
-} 
 
 .border-white{
     border: 1px solid white;
@@ -38,10 +38,29 @@
 }
 
 .mt-1rem{
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
 
+.mt-left{
+    margin-left: 3rem;
+}
+.mt-right{
+    margin-right: 3rem;
+}
 .ht-2rem{
     height: 2.1rem;
 }
 
+.brick{
+    
+    margin: 0.1rem;
+    height: 2.1rem;
+    border-radius: 3px;
+    border: 1px solid #a3a3a3;
+    background-color: burlywood;
+}
+
+/* .row{
+    border: 1px solid black;
+}
+ */
