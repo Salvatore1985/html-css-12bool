@@ -1,0 +1,47 @@
+.color-light-blue{
+    background-color: #006cfa;
+} 
+
+
+.color-green{
+    background-color: #01e165;
+} 
+
+.border-white{
+    border: 1px solid white;
+}
+
+.border-light-bluewhite{
+    border: 1px solid #006cfa;
+}
+
+.text-center{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 2rem;
+}
+
+.text-left{
+    text-align: left;
+    vertical-align: middle;
+}
+.text-color-white{
+    color: white;
+}
+ 
+.text-color-black{
+    color: black;
+}
+ 
+.p-2rem{
+    padding: 0.5rem;
+}
+
+.mt-1rem{
+    margin-top: 1rem;
+}
+
+.ht-2rem{
+    height: 2.1rem;
+}
+
