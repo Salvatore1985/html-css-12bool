@@ -4,6 +4,15 @@
 
 .container{
     border-radius: 5px;
+    background-color: Brown;
+ 
+}
+
+.joker{
+    background-image: url("../img/joker\ dc\ animated.jpg");
+    background-repeat: no-repeat;
+    background-size: cover ;
+
 }
 
 
@@ -52,15 +61,26 @@
 }
 
 .brick{
-    
     margin: 0.1rem;
     height: 2.1rem;
     border-radius: 3px;
-    border: 1px solid #a3a3a3;
     background-color: burlywood;
+    box-shadow: 5px 10px black;
 }
 
-/* .row{
-    border: 1px solid black;
+.hidden{
+visibility: hidden;
 }
- */
+
+.brick:active {
+    display: none;
+}
+
+h1{
+    position: absolute;
+    left: 40%;
+    top:10px;
+    z-index: 1;
+    color: black;
+
+}
